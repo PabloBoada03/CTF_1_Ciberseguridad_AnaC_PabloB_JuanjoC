@@ -1,0 +1,42 @@
+Datos @loladecafefortuna
+
+Bogotá,
+Toby (perro) - 2019.12.24 (Navidad)
+Capuchino doble
+Verde menta
+
+CAFITUNNDA -> A=TOBY
+
+
+
+
+//////////////////////////////////////
+
+
+
+
+JFIF $3br %&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz #3R &'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz }7_2~ qvs ^v1\ TT}v }}7E?
+
+
+
+----->B= LA PALABRA DE VIGENERE ES MENTA
+
+
+Extraer archivos del zip escondido en mascota.png:
+unzip -j mascota.png
+
+genera -> rsa_p.txt, nota_vigenere.txt, semilla_para_aes.txt
+
+
+VIGENERE DESCIFRADO:
+
+DES: CLAVE=CAFETERI Y MODO=ECB. CIFRA EL ARCHIVO SEMILLA_PARA_AES.TXT Y TOMA LOS PRIMEROS 8 BYTES DEL RESULTADO EN HEX COMO FRAGMENTO_D. 
+
+AES: CLAVE=SHA256('TOBY-2019-12-24'), IV=EL_HEX_QUE_OBTUVISTE, MODO=CBC. CIFRA EL TEXTO 'EL CAFE ES VIDA' EN UTF-8 Y TOMA LOS PRIMEROS 8 BYTES EN HEX COMO FRAGMENTO_E.
+
+
+D = 85c9ac45aebe03d1
+
+
+
+

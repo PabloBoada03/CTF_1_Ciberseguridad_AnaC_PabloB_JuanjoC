@@ -1,0 +1,8 @@
+from PIL import Image
+from PIL.JpegImagePlugin import get_sampling
+import piexif
+
+img_path = "selfie.jpg"
+exif_dict = piexif.load(img_path)
+comentario = exif_dict["0th"].get(piexif.ImageIFD.ImageDescription, b"").decode('utf-8', errors='ignore')
+print("Comentario:", comentario)
