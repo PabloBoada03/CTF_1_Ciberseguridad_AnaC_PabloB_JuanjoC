@@ -1,0 +1,8 @@
+# hashes.txt
+# Encuentra, mediante OSINT en profile.html, las frases o palabras que producen estos hashes.
+# Formato: ALG:HEXDIGEST
+
+SHA256:69591cd4c270e8c9fd62278153d8aa5a48257e64b03c89dfbe436c01e56c610c
+MD5:e047b7bcc2ad9a551083a8a6dd20cdca
+
+# Pista: Revisa mascota, fechas y palabras en mayúsculas clave.
